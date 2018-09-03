@@ -1,10 +1,9 @@
 ######################################################################
-# Author: Dr. Scott Heggen              TODO: Change this to your name, if modifying
-# Username: heggens                     TODO: Change this to your username, if modifying
+# Author: Emily Lovell & Scott Heggen              TODO: Change this to your name, if modifying
+# Username: lovelle & heggens                     TODO: Change this to your username, if modifying
 #
-# Assignment: A2: Loopy Turtles
+# Assignment: A02: Loopy Turtles
 # Purpose: To very simply demonstrate the turtle library to demo shapes
-#
 ######################################################################
 # Acknowledgements:
 #

@@ -1,10 +1,9 @@
 ######################################################################
-# Author: Dr. Scott Heggen              TODO: Change this to your name, if modifying
-# Username: heggens                     TODO: Change this to your username, if modifying
+# Author: Emily Lovell & Scott Heggen              TODO: Change this to your name, if modifying
+# Username: lovelle & heggens                     TODO: Change this to your username, if modifying
 #
-# Assignment: A2: Loopy Turtles
-#
-# Purpose: To demonstrate the turtle library
+# Assignment: A02: Loopy Turtles
+# Purpose: To demonstrate the turtle library and loops
 ######################################################################
 # Acknowledgements:
 #
@@ -48,7 +47,7 @@ w.up()
 w.setpos(0,40)                                                                                # was w.goto(-130,40) modified by by Dr. Pearce to make functional in Windows
 w.write("How to Think Like a ",move=False,align='center',font=("Arial",30,("bold","normal"))) # altered by Dr. Pearce to make font size work in Windows
 w.setpos(0,-35)                                                                               # was goto(-130,-35) modified by by Dr. Pearce to make functional in Windows
-w.write("Computer Scientist",move=False,align='center',font=("Arial",30,("bold","normal")))  # altered by Dr. Pearce to make font size work in Windows
+w.write("Computer Scientist",move=False,align='center',font=("Arial",30,("bold","normal")))   # altered by Dr. Pearce to make font size work in Windows
 
 wn.exitonclick()
 
